@@ -1,6 +1,6 @@
 # EventosUI
 
-An implementation of a simple calendar using the [FullCalendar.io](https://fullcalendar.io/) library for angular. [Here's my project's RESTful api made in .net core.](https://github.com/joaovdev/EventosAPI)
+An implementation of a simple calendar using the [FullCalendar.io](https://fullcalendar.io/) library for angular. [Here's this project's RESTful api made in .net core.](https://github.com/joaovdev/EventosAPI)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
 
